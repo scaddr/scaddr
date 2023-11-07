@@ -9,6 +9,9 @@
 
 Scaddr is a project meant to develop mini-games for interacting with other language enthusiasts, have fun, and review your knowledge. The project fully believes in open collaboration and data privacy. 
 
+<p align="center">
+    <img src=".imgs/preview.png" />
+</p>
 
 ## Public instances
 
